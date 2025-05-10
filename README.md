@@ -23,3 +23,7 @@ This section details the tools essential for server-related tasks and developmen
 2.  **Docker:** A platform for developing, shipping, and running applications in isolated environments called containers. It allows for consistent and reproducible deployments across different systems.
 
 3.  **Docker Compose:** A tool for defining and managing multi-container Docker applications. It uses a YAML file to configure the application's services, networks, and volumes, allowing you to start and stop all the services with a single command.
+
+## Section 3: Languages
+
+1. **Rustup:** `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
