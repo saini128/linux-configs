@@ -3,6 +3,7 @@
 #### Terminal:
 1. Nushell
 2. Neofetch
+3. bat (Better that cat)
 #### Monitoring Tools:
 1. btop++
 2. dysk
