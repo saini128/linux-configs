@@ -1,18 +1,16 @@
-Okay, here's a smaller version of your configuration setup:
+# My Configuration Files Setup
+## Section 1: Core Utilities
+#### Terminal:
+1. Nushell
+2. Neofetch
+#### Monitoring Tools:
+1. btop++
+2. dysk
 
-My Configuration Files Setup
-Section 1: Core Utilities
-Terminal:
 
-Nushell
-Neofetch
-Monitoring Tools:
-
-btop++
-dysk
-Section 2: Server Tools
-Caddy
-Docker
-Docker Compose
-Section 3: Languages
+## Section 2: Server Tools
+1. Caddy
+2. Docker
+3. Docker Compose
+## Section 3: Languages
 Rustup: curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
